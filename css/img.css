@@ -1,0 +1,227 @@
+#img {
+    width: 300px;
+    height: 340px;
+    border-width: 3px;
+    border-color: #2196F3;
+    border-style: solid;
+    border-radius: 50%;
+}
+
+#img {
+    height: 290px;
+    width: 290px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #2196F3;
+    border-radius: 50%;
+    /* background-color: #2196F3; */
+    background-image: url(../img/c1.jpg);
+    background-size: cover;
+    background-position-x: -25px;
+    /* background-position-y: -50px; */
+}
+
+#img2 {
+    height: 290px;
+    width: 290px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #2196F3;
+    border-radius: 50%;
+    /* background-color: #2196F3; */
+    background-image: url(../img/c4.jpg);
+    background-size: cover;
+    background-position-x: -25px;
+    /* background-position-y: -50px; */
+}
+
+#img3 {
+    height: 290px;
+    width: 290px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #2196F3;
+    border-radius: 50%;
+    /* background-color: #2196F3; */
+    background-image: url(../img/c5.jpg);
+    background-size: cover;
+    background-position-x: -25px;
+    /* background-position-y: -50px; */
+}
+
+#img4 {
+    height: 290px;
+    width: 290px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #2196F3;
+    border-radius: 50%;
+    /* background-color: #2196F3; */
+    background-image: url(../img/c6.jpg);
+    background-size: cover;
+    background-position-x: -25px;
+    /* background-position-y: -50px; */
+}
+
+#img5 {
+    height: 290px;
+    width: 290px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #2196F3;
+    border-radius: 50%;
+    /* background-color: #2196F3; */
+    background-image: url(../img/c7.jpg);
+    background-size: cover;
+    background-position-x: -25px;
+    /* background-position-y: -50px; */
+}
+
+#img6 {
+    height: 290px;
+    width: 290px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #2196F3;
+    border-radius: 50%;
+    /* background-color: #2196F3; */
+    background-image: url(../images/B00D45BA-193B-41C2-9041-C4F9850C6354_Original.jpg);
+    background-size: cover;
+    background-position-x: 0px;
+    /* background-position-y: -50px; */
+}
+
+#img7 {
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+    /* border-color: #2196F3; */
+    /* border-radius: 50%; */
+    /* background-color: #2196F3; */
+    background-image: url(../images/croissant-and-coffee-890515.jpg);
+    background-size: cover;
+    background-position-x: 0px;
+    /* background-position-y: -50px; */
+}
+
+#img8 {
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+    /* border-color: #2196F3; */
+    /* border-radius: 50%; */
+    /* background-color: #2196F3; */
+    background-image: url(../images/white-ceramic-mug-filled-with-coffee-beside-coffee-beans-678654.jpg);
+    background-size: cover;
+    background-position-x: 0px;
+    /* background-position-y: -50px; */
+}
+
+#img9 {
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+    /* border-color: #2196F3; */
+    /* border-radius: 50%; */
+    /* background-color: #2196F3; */
+    background-image: url(../images/beef-cheese-circle-delicious-262977.jpg);
+    background-size: cover;
+    background-position-x: 0px;
+    /* background-position-y: -50px; */
+}
+
+#img10 {
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+    /* border-color: #2196F3; */
+    /* border-radius: 50%; */
+    /* background-color: #2196F3; */
+    background-image: url(../images/chocolate-cake-2567854.jpg);
+    background-size: cover;
+    background-position-x: 0px;
+    /* background-position-y: -50px; */
+}
+
+#img11 {
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+    /* border-color: #2196F3; */
+    /* border-radius: 50%; */
+    /* background-color: #2196F3; */
+    background-image: url(../images/uncooked-pastry-890479.jpg);
+    background-size: cover;
+    background-position-x: 0px;
+    /* background-position-y: -50px; */
+}
+
+#img12 {
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+    /* border-color: #2196F3; */
+    /* border-radius: 50%; */
+    /* background-color: #2196F3; */
+    background-image: url(../images/close-up-of-coffee-cup-on-table-312418.jpg);
+    background-size: cover;
+    background-position-x: 0px;
+    /* background-position-y: -50px; */
+}
+
+#img13 {
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+    /* border-color: #2196F3; */
+    /* border-radius: 50%; */
+    /* background-color: #2196F3; */
+    background-image: url(../images/dessert-sweet-cake-strawberry-53110.jpg);
+    background-size: cover;
+    background-position-x: 0px;
+    /* background-position-y: -50px; */
+}
+
+#img14 {
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+    /* border-color: #2196F3; */
+    /* border-radius: 50%; */
+    /* background-color: #2196F3; */
+    background-image: url(../images/white-ceramic-cup-and-teapot-with-cupcakes-913137.jpg);
+    background-size: cover;
+    background-position-x: 0px;
+    /* background-position-y: -50px; */
+}
+
+.center {
+    text-align: center;
+    color: red;
+}
+
+.img-center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.border {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #00aabb;
+    padding: 5px;
+}
+
+.img-radius {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
